@@ -16,9 +16,9 @@ El Servicio Nacional de Contratación Pública (SERCOP) publica de forma abierta
 
 ## **Vista previa del dashboard**
 
-| Panorama General | Evolución Temporal | Detalle por Provincia |
-| ----- | ----- | ----- |
-| ![panorama]() | ![evolucion]() | ![detalle]() |
+| Panorama General | Evolución Temporal | Detalle por Provincia | Detalle por Provincia Seleccionada |
+| ----- | ----- | ----- | | ----- |
+| ![panorama](images/panorama_general.PNG) | ![evolucion](images/evolucion_temporal.PNG) | ![detalle](images/detalle_provincia.PNG) | ![detalle2](images/detalle_provincia_seleccionada.PNG) |
 
 El dashboard interactivo cuenta con 3 páginas:
 
