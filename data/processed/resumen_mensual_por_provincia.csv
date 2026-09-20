@@ -1,0 +1,292 @@
+mes,mes_numero,provincia,monto_total,num_procesos
+abril,4,Azuay,35003339.5,1467
+abril,4,Bolívar,2169550.36,322
+abril,4,Carchi,4291967.7700000005,373
+abril,4,Cañar,3536421.9899999998,798
+abril,4,Chimborazo,15564835.73,1092
+abril,4,Cotopaxi,8844441.58,675
+abril,4,Desconocido,10621.04,45
+abril,4,El Oro,20214873.2,897
+abril,4,Esmeraldas,10015294.83,865
+abril,4,Galápagos,2705868.38,32
+abril,4,Guayas,91610314.48,3153
+abril,4,Imbabura,13641863.93,994
+abril,4,Loja,17852636.03,1052
+abril,4,Los Ríos,7524995.29,431
+abril,4,Manabí,37066034.17,1633
+abril,4,Morona Santiago,8525160.98,476
+abril,4,Napo,27501145.81,909
+abril,4,Orellana,2968094.31,214
+abril,4,Pastaza,18410224.22,409
+abril,4,Pichincha,266184485.03,8802
+abril,4,Santa Elena,1478569.77,57
+abril,4,Santo Domingo de los Tsáchilas,966842.12,199
+abril,4,Sucumbíos,2352496.9,658
+abril,4,Tungurahua,12929768.66,1291
+abril,4,Zamora Chinchipe,3497833.89,534
+agosto,8,Azuay,19281368.13,890
+agosto,8,Bolívar,2057074.98,148
+agosto,8,Carchi,757697.39,310
+agosto,8,Cañar,1464278.6199999999,355
+agosto,8,Chimborazo,9912232.99,564
+agosto,8,Cotopaxi,1497161.4300000002,203
+agosto,8,El Oro,6308793.92,431
+agosto,8,Esmeraldas,11478668.639999999,180
+agosto,8,Galápagos,1190541.94,43
+agosto,8,Guayas,74488883.17999999,1312
+agosto,8,Imbabura,3193493.0900000003,424
+agosto,8,Loja,2642993.92,418
+agosto,8,Los Ríos,3822826.33,344
+agosto,8,Manabí,10014891.69,1108
+agosto,8,Morona Santiago,1230735.44,339
+agosto,8,Napo,7248100.9,579
+agosto,8,Orellana,410611.76999999996,144
+agosto,8,Pastaza,783151.54,260
+agosto,8,Pichincha,90721480.19,3239
+agosto,8,Santa Elena,640336.97,44
+agosto,8,Santo Domingo de los Tsáchilas,771253.5800000001,201
+agosto,8,Sucumbíos,5963651.970000001,112
+agosto,8,Tungurahua,9393260.35,860
+agosto,8,Zamora Chinchipe,2009829.21,343
+diciembre,12,Azuay,46632576.07,718
+diciembre,12,Bolívar,9560038.2,177
+diciembre,12,Carchi,8221011.39,180
+diciembre,12,Cañar,8317036.35,174
+diciembre,12,Chimborazo,18709602.76,421
+diciembre,12,Cotopaxi,15779516.52,305
+diciembre,12,El Oro,31295615.150000002,318
+diciembre,12,Esmeraldas,18808925.13,265
+diciembre,12,Galápagos,4787044.46,40
+diciembre,12,Guayas,237587611.78,1283
+diciembre,12,Imbabura,23260334.12,509
+diciembre,12,Loja,33311140.78,450
+diciembre,12,Los Ríos,55154182.25,300
+diciembre,12,Manabí,52605843.48,786
+diciembre,12,Morona Santiago,27177242.14,417
+diciembre,12,Napo,65636997.839999996,483
+diciembre,12,Orellana,10444630.83,69
+diciembre,12,Pastaza,19302586.54,282
+diciembre,12,Pichincha,581380219.68,3330
+diciembre,12,Santa Elena,3328962.54,26
+diciembre,12,Santo Domingo de los Tsáchilas,4206114.99,66
+diciembre,12,Sucumbíos,13920917.38,143
+diciembre,12,Tungurahua,32139810.71,571
+diciembre,12,Zamora Chinchipe,28801820.45,167
+enero,1,Azuay,3290470.46,116
+enero,1,Bolívar,1795360.51,38
+enero,1,Carchi,79081.0,79
+enero,1,Cañar,706335.36,115
+enero,1,Chimborazo,464710.35,63
+enero,1,Cotopaxi,83013.49,25
+enero,1,El Oro,1145601.3,30
+enero,1,Esmeraldas,403304.24000000005,26
+enero,1,Galápagos,191926.58,1
+enero,1,Guayas,2941037.48,121
+enero,1,Imbabura,338143.04,92
+enero,1,Loja,339479.91000000003,205
+enero,1,Los Ríos,961327.15,104
+enero,1,Manabí,2854183.08,275
+enero,1,Morona Santiago,154306.91,36
+enero,1,Napo,1107853.69,50
+enero,1,Orellana,116555.29000000001,87
+enero,1,Pastaza,510531.38,40
+enero,1,Pichincha,2565793.92,341
+enero,1,Santa Elena,62429.05,7
+enero,1,Santo Domingo de los Tsáchilas,21934.2,2
+enero,1,Tungurahua,201158.36000000002,125
+enero,1,Zamora Chinchipe,1121024.3900000001,136
+febrero,2,Azuay,18645997.95,1524
+febrero,2,Bolívar,1822843.56,303
+febrero,2,Carchi,4890133.52,492
+febrero,2,Cañar,2638351.36,720
+febrero,2,Chimborazo,3720041.47,551
+febrero,2,Cotopaxi,2583948.07,506
+febrero,2,El Oro,4154983.12,807
+febrero,2,Esmeraldas,9596204.86,280
+febrero,2,Galápagos,449673.42,38
+febrero,2,Guayas,49920166.089999996,2167
+febrero,2,Imbabura,2976812.96,790
+febrero,2,Loja,8184574.53,933
+febrero,2,Los Ríos,12647020.53,546
+febrero,2,Manabí,12942686.78,934
+febrero,2,Morona Santiago,9530112.05,736
+febrero,2,Napo,4431097.37,607
+febrero,2,Orellana,1192536.42,445
+febrero,2,Pastaza,1752696.6,338
+febrero,2,Pichincha,53983882.72,3023
+febrero,2,Santa Elena,2114393.16,56
+febrero,2,Santo Domingo de los Tsáchilas,2471634.6,97
+febrero,2,Sucumbíos,826469.04,212
+febrero,2,Tungurahua,10978904.030000001,966
+febrero,2,Zamora Chinchipe,7851682.66,273
+julio,7,Azuay,50687591.84,1112
+julio,7,Bolívar,8340907.4799999995,301
+julio,7,Carchi,5109659.96,305
+julio,7,Cañar,5342385.95,303
+julio,7,Chimborazo,17988279.78,805
+julio,7,Cotopaxi,17292017.77,296
+julio,7,El Oro,27707640.37,562
+julio,7,Esmeraldas,8334636.0200000005,316
+julio,7,Galápagos,4241329.92,41
+julio,7,Guayas,149117295.61,2244
+julio,7,Imbabura,31280755.29,550
+julio,7,Loja,11703812.5,795
+julio,7,Los Ríos,28738860.18,419
+julio,7,Manabí,44344858.589999996,940
+julio,7,Morona Santiago,29842675.61,495
+julio,7,Napo,27037309.98,583
+julio,7,Orellana,2885414.84,159
+julio,7,Pastaza,10336342.72,401
+julio,7,Pichincha,399672894.31,5064
+julio,7,Santa Elena,3644126.6399999997,100
+julio,7,Santo Domingo de los Tsáchilas,3180944.6199999996,52
+julio,7,Sucumbíos,8810214.41,404
+julio,7,Tungurahua,26094483.87,711
+julio,7,Zamora Chinchipe,5914081.69,290
+junio,6,Azuay,34669257.18,1270
+junio,6,Bolívar,2180093.33,209
+junio,6,Carchi,8693607.23,257
+junio,6,Cañar,4804232.29,370
+junio,6,Chimborazo,8628469.42,906
+junio,6,Cotopaxi,5618855.02,571
+junio,6,Desconocido,93778.77,11
+junio,6,El Oro,10897499.65,569
+junio,6,Esmeraldas,4296591.51,147
+junio,6,Galápagos,1991430.38,88
+junio,6,Guayas,96965395.55,1790
+junio,6,Imbabura,11578761.38,725
+junio,6,Loja,6735993.21,959
+junio,6,Los Ríos,9891107.9,461
+junio,6,Manabí,11846152.91,905
+junio,6,Morona Santiago,9611987.39,552
+junio,6,Napo,11669205.83,729
+junio,6,Orellana,525818.76,146
+junio,6,Pastaza,5786611.3,495
+junio,6,Pichincha,155920837.65,4075
+junio,6,Santa Elena,742507.33,80
+junio,6,Santo Domingo de los Tsáchilas,3086938.18,120
+junio,6,Sucumbíos,2136537.38,456
+junio,6,Tungurahua,10342103.13,939
+junio,6,Zamora Chinchipe,7739222.17,401
+marzo,3,Azuay,24184539.0,1096
+marzo,3,Bolívar,2347881.22,250
+marzo,3,Carchi,3786193.04,397
+marzo,3,Cañar,4417900.68,896
+marzo,3,Chimborazo,7617854.27,734
+marzo,3,Cotopaxi,4842450.44,446
+marzo,3,Desconocido,117983.65,17
+marzo,3,El Oro,7580211.39,1195
+marzo,3,Esmeraldas,3605874.1,463
+marzo,3,Galápagos,2267899.62,30
+marzo,3,Guayas,90574153.19,3368
+marzo,3,Imbabura,6818998.01,768
+marzo,3,Loja,5935677.68,1193
+marzo,3,Los Ríos,11547350.4,912
+marzo,3,Manabí,30076816.9,1699
+marzo,3,Morona Santiago,2769677.9499999997,695
+marzo,3,Napo,8965411.68,802
+marzo,3,Orellana,948339.84,321
+marzo,3,Pastaza,2648624.36,375
+marzo,3,Pichincha,193130696.46,5150
+marzo,3,Santa Elena,3646657.47,317
+marzo,3,Santo Domingo de los Tsáchilas,2022793.47,218
+marzo,3,Sucumbíos,3113028.9,290
+marzo,3,Tungurahua,6835854.9,843
+marzo,3,Zamora Chinchipe,5403257.6,603
+mayo,5,Azuay,26099804.13,1050
+mayo,5,Bolívar,4583728.17,271
+mayo,5,Carchi,1663920.68,331
+mayo,5,Cañar,7197662.73,332
+mayo,5,Chimborazo,10893511.89,721
+mayo,5,Cotopaxi,2979714.18,296
+mayo,5,Desconocido,1722.04,15
+mayo,5,El Oro,25294675.89,705
+mayo,5,Esmeraldas,25539963.29,335
+mayo,5,Galápagos,968009.67,75
+mayo,5,Guayas,70955988.12,1815
+mayo,5,Imbabura,11961397.09,783
+mayo,5,Loja,8927960.5,739
+mayo,5,Los Ríos,8610231.78,837
+mayo,5,Manabí,24398159.68,995
+mayo,5,Morona Santiago,7505977.09,494
+mayo,5,Napo,17342707.08,489
+mayo,5,Orellana,4541724.2,103
+mayo,5,Pastaza,4542917.96,510
+mayo,5,Pichincha,171746018.53,4095
+mayo,5,Santa Elena,914476.25,38
+mayo,5,Santo Domingo de los Tsáchilas,1163736.05,162
+mayo,5,Sucumbíos,11071586.209999999,399
+mayo,5,Tungurahua,8879524.66,578
+mayo,5,Zamora Chinchipe,3982145.69,394
+noviembre,11,Azuay,20798711.13,782
+noviembre,11,Bolívar,2395758.69,292
+noviembre,11,Carchi,1925281.31,185
+noviembre,11,Cañar,2299243.96,295
+noviembre,11,Chimborazo,10185761.04,546
+noviembre,11,Cotopaxi,9283130.17,453
+noviembre,11,El Oro,19880700.82,577
+noviembre,11,Esmeraldas,9400304.52,344
+noviembre,11,Galápagos,682972.27,19
+noviembre,11,Guayas,93972805.83,1260
+noviembre,11,Imbabura,8670024.33,551
+noviembre,11,Loja,9204265.97,464
+noviembre,11,Los Ríos,16694532.19,244
+noviembre,11,Manabí,63256306.23,776
+noviembre,11,Morona Santiago,5509577.14,188
+noviembre,11,Napo,29968604.28,559
+noviembre,11,Orellana,3918113.53,145
+noviembre,11,Pastaza,9755650.040000001,380
+noviembre,11,Pichincha,231573405.84,4190
+noviembre,11,Santa Elena,1057328.74,64
+noviembre,11,Santo Domingo de los Tsáchilas,1323004.23,190
+noviembre,11,Sucumbíos,2808692.18,160
+noviembre,11,Tungurahua,9832123.31,431
+noviembre,11,Zamora Chinchipe,9024855.57,186
+octubre,10,Azuay,23693651.51,759
+octubre,10,Bolívar,2853614.63,223
+octubre,10,Carchi,4471596.52,240
+octubre,10,Cañar,2678015.31,272
+octubre,10,Chimborazo,9388609.7,602
+octubre,10,Cotopaxi,3784812.39,153
+octubre,10,El Oro,13350150.450000001,403
+octubre,10,Esmeraldas,11473744.69,227
+octubre,10,Galápagos,2985403.01,14
+octubre,10,Guayas,104273123.06,1439
+octubre,10,Imbabura,12718577.58,434
+octubre,10,Loja,5751024.54,352
+octubre,10,Los Ríos,19546254.86,320
+octubre,10,Manabí,31953956.09,545
+octubre,10,Morona Santiago,9666048.52,414
+octubre,10,Napo,14591313.99,332
+octubre,10,Orellana,577222.73,77
+octubre,10,Pastaza,6923658.7299999995,275
+octubre,10,Pichincha,197863268.01,4412
+octubre,10,Santa Elena,249024.69,136
+octubre,10,Santo Domingo de los Tsáchilas,3862268.75,177
+octubre,10,Sucumbíos,5556514.3,173
+octubre,10,Tungurahua,13263528.65,627
+octubre,10,Zamora Chinchipe,3833793.96,206
+septiembre,9,Azuay,13243592.0,557
+septiembre,9,Bolívar,1808151.34,116
+septiembre,9,Carchi,10934267.91,214
+septiembre,9,Cañar,2114697.76,208
+septiembre,9,Chimborazo,11570690.45,636
+septiembre,9,Cotopaxi,3557660.77,275
+septiembre,9,El Oro,9552743.31,504
+septiembre,9,Esmeraldas,10356314.78,202
+septiembre,9,Galápagos,742145.61,11
+septiembre,9,Guayas,98182806.51,1579
+septiembre,9,Imbabura,6159720.96,561
+septiembre,9,Loja,5607481.49,629
+septiembre,9,Los Ríos,8141912.34,214
+septiembre,9,Manabí,25181602.03,511
+septiembre,9,Morona Santiago,2921748.7800000003,452
+septiembre,9,Napo,17661244.39,341
+septiembre,9,Orellana,6439219.4399999995,92
+septiembre,9,Pastaza,6168133.84,228
+septiembre,9,Pichincha,142618919.79,2687
+septiembre,9,Santa Elena,530910.25,31
+septiembre,9,Santo Domingo de los Tsáchilas,2078864.62,23
+septiembre,9,Sucumbíos,5770660.5600000005,298
+septiembre,9,Tungurahua,4589145.66,626
+septiembre,9,Zamora Chinchipe,9073586.48,184
