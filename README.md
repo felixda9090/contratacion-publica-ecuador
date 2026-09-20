@@ -2,7 +2,7 @@
 
 Análisis y visualización de los procesos de contratación pública ejecutados por el Estado ecuatoriano durante 2025, con foco en la distribución del gasto por provincia, institución y evolución temporal.
 
-![Power BI](images/power-bi-logo.PNG) ![Python](images/Python-Logo.PNG) ![Pandas](images/Pandas_logo.PNG)
+![Power BI](images/power-bi-logo.png) ![Python](images/Python-Logo.png) ![Pandas](images/Pandas_logo.png)
 
 ---
 
