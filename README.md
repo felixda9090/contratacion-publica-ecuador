@@ -2,7 +2,7 @@
 
 Análisis y visualización de los procesos de contratación pública ejecutados por el Estado ecuatoriano durante 2025, con foco en la distribución del gasto por provincia, institución y evolución temporal.
 
-![Power BI]() ![Python]() ![Pandas]()
+![Power BI](images/power-bi-logo.PNG) ![Python](images/Python-Logo.PNG) ![Pandas](images/Pandas_logo.PNG)
 
 ---
 
@@ -17,7 +17,7 @@ El Servicio Nacional de Contratación Pública (SERCOP) publica de forma abierta
 ## **Vista previa del dashboard**
 
 | Panorama General | Evolución Temporal | Detalle por Provincia | Detalle por Provincia Seleccionada |
-| ----- | ----- | ----- | | ----- |
+| ----- | ----- | ----- | ----- |
 | ![panorama](images/panorama_general.PNG) | ![evolucion](images/evolucion_temporal.PNG) | ![detalle](images/detalle_provincia.PNG) | ![detalle2](images/detalle_provincia_seleccionada.PNG) |
 
 El dashboard interactivo cuenta con 3 páginas:
