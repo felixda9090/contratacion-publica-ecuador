@@ -97,6 +97,7 @@ Durante el desarrollo se identificaron y resolvieron varios problemas de calidad
 * **Discrepancia con el tablero oficial "Contratación en Cifras" del SERCOP:** dicho tablero reporta un total de $7,318 millones y 411,084 procesos para 2025, sumando los regímenes de Común y Especial, Ínfima Cuantía y Emergencias. El presente análisis, basado en el dataset OCDS de descarga masiva, totaliza $6,219 millones y 182,558 procesos. La diferencia sugiere que el dataset OCDS no captura la totalidad de los regímenes de contratación (particularmente Ínfima Cuantía y Emergencias) y podría no incluir el 100% de los procesos del Régimen Común y Especial. Se documenta esta discrepancia como limitación conocida.  
 * La provincia de la entidad contratante fue **inferida** a partir del RUC, no tomada de un campo oficial — un 0.05% de registros no pudo clasificarse (categoría "Desconocido").  
 * El análisis usa la ubicación de la **entidad contratante**, no del proveedor adjudicado, ya que este dato no está disponible en el dataset de proveedores.
+* - **Los campos `mainProcurementCategory` y `status` se completan de forma inversa según el tipo de proceso:** Catálogo Electrónico rellena `status` pero no `mainProcurementCategory`, mientras que los procesos competitivos (Subasta Inversa, Licitación, etc.) hacen lo contrario. Esto sugiere que SERCOP utiliza plantillas de publicación distintas según el tipo de procedimiento dentro del mismo estándar OCDS.
 
 ---
 
